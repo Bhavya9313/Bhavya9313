@@ -1,16 +1,30 @@
-## Hi there 👋
+# About_Me
+# 👋 Hi there, I'm Bhavya Rajput
 
-<!--
-**Bhavya9313/Bhavya9313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Profession
+[Data Analyst] | Passionate about [finding insights from data]
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🌱 I’m currently learning [Technology/Skill]
+- 👯 I’m looking to collaborate on [Type of Projects]
+- 💬 Ask me about [Your Skills or Topics]
+- ⚡ Fun fact: [Something interesting about you]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🛠️ Skills
+* SQL
+* Power BI
+* Excel
+* Python
+* Tableau
+<!-- Add more badges or list them like:
+- HTML, CSS, JavaScript
+- Python, SQL, etc.
 -->
+
+## 📫 How to reach me
+- LinkedIn: https://www.linkedin.com/in/bhavya-rajput-305a23308/
+- Email: bhavyarajput6007@gmail.com
+
+---
+
+⭐️ *Thanks for visiting! Don't forget to follow me and check out my repositories.*
