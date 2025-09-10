@@ -1,4 +1,3 @@
-# About_Me
 # 👋 Hi there, I'm Bhavya Rajput
 
 ## 💼 Profession
@@ -7,8 +6,8 @@
 ## 🧠 About Me
 - 🌱 I’m currently learning [Technology/Skill]
 - 👯 I’m looking to collaborate on [Type of Projects]
-- 💬 Ask me about [Your Skills or Topics]
-- ⚡ Fun fact: [Something interesting about you]
+- 💬 Ask me about 
+- ⚡ Fun fact: My idea of fun? Cleaning messy datasets 😄
 
 ## 🛠️ Skills
 * SQL
